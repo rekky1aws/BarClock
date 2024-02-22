@@ -10,3 +10,4 @@
 + Ajouter une fonctionnalité de minuteur
 + Ajouter une fonctionnalité de chronomètre
 + Ajouter la possibilité de choisir son fuseau horaire
++ Faire une favicon
